@@ -1,0 +1,6 @@
+{
+    "this-week": {"Sales": "₦0.00", "plusValue": "+0.00%", "volume": 0 ,"Customers": 0, "Active": 0, "allOrders": 0, "pending": 0, "completed": 0 },
+    "this-month": { "Sales": "2.10", "plusValue": "+2%", "volume":  3 , "Customers": 9, "Active": 5, "allOrders": 50, "pending": 20, "completed": 30 },
+    "this-year": { "Sales": "3.03", "plusValue": "+1.00%", "volume": 5 , "Customers": 90, "Active": 60, "allOrders": 200, "pending": 50, "completed": 150 }
+  }
+
