@@ -23,8 +23,8 @@ cd dashboard
 # Install dependencies
 npm install
 
-Usage:
+# Usage:
 
 Run the following command to start the development server and open the dashboard in your default web browser:
-# npm run dev
+npm run dev
 
