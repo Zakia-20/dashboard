@@ -1,6 +1,7 @@
 
 
-//Description
+# Description:
+
 This project is a dashboard built with Vite and ReactJs, utilizing the Material-UI. It provides a responsive and visually appealing user interface . 
 
  The recent additions include a "This Week" filter, an "Add Products" button, and a Pie Chart populated with data from an external API.
